@@ -5,3 +5,4 @@
  */
 
 // Done =))
+console.log("This is task-01.js")
